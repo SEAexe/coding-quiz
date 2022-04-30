@@ -11,6 +11,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 main {
@@ -23,12 +24,18 @@ main {
 
 h1 {
     padding-top: 50px;
-    font-size: 72px;
+    font-size: 50px;
 }
 
 .quiz-desc {
     padding: 5px;
-    font-size: 30px;
+    font-size: 20px;
+}
+
+.start-btn {
+    font-size: 40px;
+    font-family: monospace;
+    margin: 20px;
 }
 
 button {
@@ -44,12 +51,6 @@ button {
     color: #2e2f6f;
     text-decoration: underline;
     border: 0px;
-}
-
-#start-btn {
-    font-size: 40px;
-    font-family: monospace;
-    margin: 20px;
 }
 
 #timer {
