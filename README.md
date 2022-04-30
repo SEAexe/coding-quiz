@@ -1,9 +1,9 @@
 # coding-quiz
 Multiple choice, timed coding quiz with the ability to input users' initials and high scores at the end of the game 
 
-### Live site at https://$$$
+### Live site at https://seaexe.github.io/coding-quiz/
 
-### Link to Screenshot ./$$$
+### Link to Screenshot ./assets/img/Screenshot.PNG
 
 ### Rules
 —After "Start Quiz" button is pressed, user has 60 seconds to complete 5 multiple choice questions
