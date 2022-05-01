@@ -38,6 +38,10 @@ h1 {
     margin: 20px;
 }
 
+.hidden {
+    display: none
+}
+
 button {
     background-color: #2e2f6f;
     color: #fff;
